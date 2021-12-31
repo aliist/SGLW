@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+#Visual Studio File Formats
+*.vcxproj
+
+#Folder
+x64
+
 # Compiled Object files
 *.slo
 *.lo
