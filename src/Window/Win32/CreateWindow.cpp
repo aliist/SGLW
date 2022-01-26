@@ -29,14 +29,9 @@ SGLW::CONSTWCHAR GLWIN::GetWindowClassName()
     return SGLW::CONSTWCHAR(this->DRWNAME);
 }
 
-SGLW::SGLWindowHandler GLWINCREATE()
-{
-
-};
-
 SGLW::SGLWBOOL GLWIN::GLWINMAIN()
 {
     this->CreateWindowClass(this->hThisInstance,L"GLDRAWINDOWIN32", this->DRWPROCN);
-    this->DRWINCREATE();
+    //this->DRWINCREATE();
     return SGLW::SGLWBOOL();
 }

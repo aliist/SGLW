@@ -9,6 +9,7 @@ namespace SGLW {
 /*Core Types Convert*/
 typedef BOOL						SGLWBOOL;
 typedef LPCWSTR						CONSTWCHAR;	/*16 bit unicode character*/
+//typedef TRUE						SGLWTRUE;
 
 #if defined _WIN32 || _WIN64		/*Win32 || Win64*/
 	/*
