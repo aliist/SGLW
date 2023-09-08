@@ -1,6 +1,7 @@
 Bareback OpenGL windowing system for Windows and Linux OS 
 
 Challange :
+
 	Windows (SGLW):
 		[X]Don't use any additional lib (glfw , wgl and other)
 		[X]Test it
