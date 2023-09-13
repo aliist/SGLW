@@ -8,7 +8,7 @@ Challange :
 
 	Linux (not ready yet):
 		[-]Don't use any additional lib (glfw , wgl and other)
-   [-] use Xlib and xcb for comparison
+   		[-] use Xlib and xcb for comparison
 		[-]Test it
 
 When this lib is writed combine two library.
